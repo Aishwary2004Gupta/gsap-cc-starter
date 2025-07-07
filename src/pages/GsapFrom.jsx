@@ -15,7 +15,7 @@ const GsapFrom = () => {
 
   return (
     <main>
-      {/* <h1>GsapFrom</h1>
+      <h1>GsapFrom</h1>
 
       <p className="mt-5 text-gray-500">
         The <code>gsap.from()</code> method is used to animate elements from a
@@ -28,7 +28,7 @@ const GsapFrom = () => {
         <code>gsap.from()</code> method animates elements from a new state to
         their current state, while the <code>gsap.to()</code> method animates
         elements from their current state to a new state.
-      </p> */}
+      </p>
 
       <p className="mt-5 text-gray-500">
         Read more about the{" "}
