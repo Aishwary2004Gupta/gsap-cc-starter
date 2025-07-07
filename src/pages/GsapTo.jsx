@@ -1,6 +1,7 @@
 const GsapTo = () => {
   // TODO: Implement the gsap.to() method
 
+
   return (
     <main>
       <h1>GsapTo</h1>
@@ -30,7 +31,7 @@ const GsapTo = () => {
       </p>
 
       <div className="mt-20">
-        <div id="blue-box" className="w-20 h-20 bg-blue-500 rounded-lg" />
+        <div id="blue-box" className="w-20 h-20 bg-red-500 rounded-lg" />
       </div>
     </main>
   );
