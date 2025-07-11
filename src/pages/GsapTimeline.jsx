@@ -6,16 +6,16 @@ const GsapTimeline = () => {
 
   useGSAP(() => {
     timeline.to("#yellow-box", {
-      x: 200,
+      x: 100,
       rotation: 360,
       borderRadius: "100%",
-      duration: 2,
+      duration: 1,
       ease: "back.inOut",
     });
 
     timeline.to("#yellow-box", {
-      y: 250,
-      scale: 2,
+      y: 120,
+      scale: 0.5,
       rotation: 360,
       borderRadius: "100%",
       duration: 2,
