@@ -9,13 +9,13 @@ const GsapTimeline = () => {
       x: 100,
       rotation: 360,
       borderRadius: "100%",
-      duration: 1,
+      duration: 2,
       ease: "back.inOut",
     });
 
     timeline.to("#yellow-box", {
       y: 120,
-      scale: 0.5,
+      scale: 1,
       rotation: 360,
       borderRadius: "100%",
       duration: 2,
